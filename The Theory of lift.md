@@ -14,3 +14,6 @@ both <span STYLE="color:#f859f3;font-weight:bold" title = "the forward facing pa
 - the force on a body is from the [[aerodynamic forces|fluid pressure]] around it
 - the fluid pressure comes from the change in velocity of the fluid around the surface
 - the change in velocity comes from the flow turning described above
+
+
+> hello mate
