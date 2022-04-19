@@ -8,7 +8,7 @@ This means that lift can be generated from just the turning of the flow in anoth
 - a spinning cylinder will wrap air around it and push it down
 - etc.
 
-both <span STYLE="color:#f859f3;font-weight:bold" title = "the forward facing part of the moving object">Wayward</span> and <span STYLE="color:#f859f3;font-weight:bold" title = "the rearward facing part of the moving object">Leeward</span> parts have an effect on the airflow, and therefore the **force** generated and ignoring one or the other will lead to a popular ![[incorrect theories of lift#skipping stone theory Newtonian theory of lift|incorrect theory of lift.]]
+both <span STYLE="color:#f859f3;font-weight:bold" title = "the forward facing part of the moving object">Wayward</span> and <span STYLE="color:#f859f3;font-weight:bold" title = "the rearward facing part of the moving object">Leeward</span> parts have an effect on the airflow, and therefore the **force** generated and ignoring one or the other will lead to a popular **incorrect theory of lift**![[incorrect theories of lift#skipping stone theory Newtonian theory of lift|incorrect theory of lift.]]
 #### in summary
 - the force on a body is from the [[aerodynamic forces|fluid pressure]] around it
 - the fluid pressure comes from the change in velocity of the fluid around the surface
