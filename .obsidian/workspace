@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Wave formulae.md",
-            "mode": "source",
+            "file": "The Theory of lift.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Wave formulae.md",
+                "file": "The Theory of lift.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wave formulae.md",
+                "file": "The Theory of lift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,6 +155,8 @@
   },
   "active": "3ae176298909f0ba",
   "lastOpenFiles": [
+    "The Theory of lift.md",
+    "incorrect theories of lift.md",
     "Wave formulae.md",
     "CalculiX.md",
     "wave interference.md",
@@ -162,8 +164,6 @@
     "Trig Identities.md",
     "trig functions.png",
     "Excalidraw/Drawing 2022-03-24 13.55.45.excalidraw.md",
-    "Hand Writing.md",
-    "particle duality 6 marker.md",
-    "Excalidraw/Drawing 2022-03-23 12.09.50.excalidraw.md"
+    "Hand Writing.md"
   ]
 }
