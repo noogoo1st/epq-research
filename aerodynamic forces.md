@@ -1,8 +1,11 @@
 ![[aerodynamic forces nasa diagram.png]]
 aero pressure forces act perpendicular to surface
 $$\vec{F} = \sum{p\vec{n}}\Delta A$$
+
 $$\vec{F} = \oint{P\vec{n}}\,dA$$
+
 $$lift = L = \vec{F}_{normal}$$
+
 $$Drag = D = \vec{F}_{streamwise}$$
 
 seems I don't really have to worry about the contour integral, the first formula should suffice for numerical analysis.

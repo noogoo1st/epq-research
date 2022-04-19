@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Theory of lift.md",
+            "file": "aerodynamic forces.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "The Theory of lift.md",
+                "file": "aerodynamic forces.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Theory of lift.md",
+                "file": "aerodynamic forces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,15 +155,15 @@
   },
   "active": "3ae176298909f0ba",
   "lastOpenFiles": [
+    "aerodynamic forces.md",
+    "aerodynamic forces nasa diagram.png",
+    "first look.md",
     "The Theory of lift.md",
     "incorrect theories of lift.md",
     "Wave formulae.md",
     "CalculiX.md",
     "wave interference.md",
     "Slit Interference.md",
-    "Trig Identities.md",
-    "trig functions.png",
-    "Excalidraw/Drawing 2022-03-24 13.55.45.excalidraw.md",
-    "Hand Writing.md"
+    "Trig Identities.md"
   ]
 }
