@@ -1,0 +1,142 @@
+{
+  "workspaces": {
+    "base": {
+      "main": {
+        "id": "9d28b7316355aa85",
+        "type": "split",
+        "children": [
+          {
+            "id": "1155706d744e7526",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "c0d44300b88ceabf",
+        "type": "split",
+        "children": [
+          {
+            "id": "347e4766703c1b99",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ff2cf4d97e03bf77",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "828290c621807c50",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "9db485bbf9b7954d",
+        "type": "split",
+        "children": [
+          {
+            "id": "e9b333eb10e8a032",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "06b980eb7049319e",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.5359795996225947,
+                      "close": false
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "d7b45c6f4b47af34",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1a78ec43c9ceb985",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": true,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "a6da2c6712088f99",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "active": "1155706d744e7526"
+    }
+  },
+  "active": "base"
+}

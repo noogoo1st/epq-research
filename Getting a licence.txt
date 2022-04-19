@@ -1,0 +1,35 @@
+there are 2 catagories: open catagory and specific catagory
+my plane will fall under the open catagory and is subject to hobby flying laws
+
+flying a plane above 250g (c0) requires a licence and i estimate my plane to be between 0.5 and 2 kg in the end.
+
+drone classes
+c0 <250g, <42mph, include toys and harmless drones. no licence required
+c1 <900g, <42mph, must have a licence to fly for this and all below
+c2 <4kg, must have a low speed mode (<3m/s)
+c3 <25kg, have automation on board for control
+c4 <25kg, have little to no automisation on board
+
+you must register to fly a drone(flyer ID), its free and requires you to take a theory test. it good for 5 years.
+the drone must also have an operator above the age of 18 who is responisble for the drone. it costs £9 to be an operator
+I am not 18 so will need my parents to do this
+
+drones below 20kg do not need any insurance.
+
+THE DRONE AND MODEL AIRCRAFT CODE:
+for any drones above 250g, or that have a camera, an operator id is required to be able to fly it.
+only drones that are >250g require a flyer id, irrespecitive of wether it has a camera.
+The drone code is divided into points to help keep track of them
+
+point 1: flying safely is your responsibility and you should always be ready for unexpected events.
+the punichment for breaking the law when when could be a fine, or even jailtime!
+
+point 2: the drone must always be in direct line of sight when flying,
+no using binoculars or electronic equipment to see it
+You are allowed to have an observer to help you when fying:
+you must always be able to talk to them while they keep looking at the drone
+you are still responsible for safety
+if flying fpv there must be an observer present
+
+point 3:
+...
