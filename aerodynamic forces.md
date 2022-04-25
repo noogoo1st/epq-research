@@ -21,6 +21,6 @@ component of force perpendicular to direction of flow is called lift, parallel i
 [[Bernoulli's equation]] can be used to calculate pressure when no boundary layers are present.
 
 
-[[incorrect theories of lift]]
+[[Venturi theory]]
 
 $$x^2 + \frac{x+1}{2} \times\int_0^2\left(\frac{x^3}{\sqrt[3]{x+x^3}}\right)\,dx$$
