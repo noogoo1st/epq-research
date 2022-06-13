@@ -4,36 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "3ae176298909f0ba",
+        "id": "42c7c574bb54b082",
+        "type": "split",
+        "children": [
+          {
+            "id": "d8eb93bb305ac831",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bernoulli's equation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ae176298909f0ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Venturi theory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "49844f6dee99fcdb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "aerodynamic forces.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "cf016e4ba40f3888",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "97de1e2076f69cb8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "The Theory of lift.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "d8eb93bb305ac831",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Skipping stone theory (Newtonian theory of lift).md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "b86e35dfabc1bdaf",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Longer path (equal transit theory).md",
             "mode": "source",
             "source": false
           }
@@ -93,7 +120,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "The Theory of lift.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -134,7 +160,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Theory of lift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,17 +202,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3ae176298909f0ba",
+  "active": "cf016e4ba40f3888",
   "lastOpenFiles": [
-    "The Theory of lift.md",
     "Venturi theory.md",
-    "Longer path (equal transit theory).md",
-    "Skipping stone theory (Newtonian theory of lift).md",
-    "Untitled 2.md",
-    "first look.md",
     "aerodynamic forces.md",
     "aerodynamic forces nasa diagram.png",
-    "Wave formulae.md",
-    "CalculiX.md"
+    "The Theory of lift.md",
+    "Bernoulli's equation.md",
+    "Skipping stone theory (Newtonian theory of lift).md",
+    "Venturi's effect.md",
+    "Longer path (equal transit theory).md",
+    "Untitled 2.md",
+    "first look.md"
   ]
 }

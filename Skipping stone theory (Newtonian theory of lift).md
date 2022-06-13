@@ -12,5 +12,3 @@ however for high speed low density conditions (space shuttle's early re-entry) t
 [[The Theory of lift]]
 
 ---
-**Tags:**
-#📚,

@@ -15,4 +15,3 @@ See [[The Theory of lift]] here
 [[The Theory of lift]]
 
 ---
-**Tags:**

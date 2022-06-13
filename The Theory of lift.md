@@ -9,11 +9,8 @@ This means that lift can be generated from just the turning of the flow in anoth
 - etc.
 
 both <span STYLE="color:#f859f3;font-weight:bold" title = "the forward facing part of the moving object">Wayward</span> and <span STYLE="color:#f859f3;font-weight:bold" title = "the rearward facing part of the moving object">Leeward</span> parts have an effect on the airflow, and therefore the **force** generated and ignoring one or the other will lead to a popular **incorrect theory of lift** 
-![[Venturi theory]]
+![[Venturi theory|incorrect theory of lift]]
 #### in summary
-- the force on a body is from the [[aerodynamic forces|fluid pressure]] around it
+- the force on a body is from the [[aerodynamic forces|fluid pressure]] around it, more specifically, the [[static pressure]]
 - the fluid pressure comes from the change in velocity of the fluid around the surface
 - the change in velocity comes from the flow turning described above
-
-
-> hello mate
