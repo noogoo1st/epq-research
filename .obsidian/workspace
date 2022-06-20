@@ -40,7 +40,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "aerodynamic forces.md",
+            "file": "Choosing an aerofoil.md",
             "mode": "source",
             "source": false
           }
@@ -120,6 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Choosing an aerofoil.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -160,13 +161,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Choosing an aerofoil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -202,17 +204,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cf016e4ba40f3888",
+  "active": "49844f6dee99fcdb",
   "lastOpenFiles": [
-    "Venturi theory.md",
+    "Choosing an aerofoil.md",
+    "thin aerofoil theory.md",
+    "aerodynamic centre.md",
+    "Bernoulli's equation.md",
     "aerodynamic forces.md",
+    "Venturi theory.md",
     "aerodynamic forces nasa diagram.png",
     "The Theory of lift.md",
-    "Bernoulli's equation.md",
     "Skipping stone theory (Newtonian theory of lift).md",
-    "Venturi's effect.md",
-    "Longer path (equal transit theory).md",
-    "Untitled 2.md",
-    "first look.md"
+    "Venturi's effect.md"
   ]
 }

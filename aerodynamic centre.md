@@ -1,0 +1,3 @@
+## aerodynamic centre
+Since the <span STYLE="color:#f859f3;font-weight:bold" title = "the point that pressure forces act through, like the centre of gravity">centre of pressure</span> changes as angle of attack changes, it is more useful to analyse the aerodynamic centre
+Consider the torque acting on the wing; This can be calculated using net lift and net drag around some point on the wing. if we chose a point on the wing where the coefficient of this <span STYLE="color:#f859f3;font-weight:bold" title = "the torque on a wing that acts in the witch direction">pitching torque</span> is the same for all angles of attack, analysis becomes much easier.

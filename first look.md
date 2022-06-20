@@ -13,4 +13,4 @@ thickness measures in 2 ways:
 American convention: thickness in relation to camber line
 British convention: thickness in relation to chord line
 
-[[thin airfoil theory]] should be looked into
+[[thin aerofoil theory]] should be looked into
